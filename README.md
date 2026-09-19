@@ -1,6 +1,8 @@
-# smart-crash-cart-firmware
+# smart-crash-cart
 
-Firmware for the graduation project **Design of a Smart Medical Crash Cart with Access Control and Tamper
+Repository: <https://github.com/Smart-Clinic-Tech/smart-crash-cart>
+
+Firmware and design files for the graduation project **Design of a Smart Medical Crash Cart with Access Control and Tamper
 Detection** — Majmaah University, College of Applied Medical Sciences, Department of Medical Equipment
 Technology. Course: Design Project (0475 BMET), First Semester 1448 H (481), 2026-2027.
 Supervisor: Dr. Ahmad Alassaf.
@@ -40,7 +42,7 @@ card with the time from a DS3231 real-time clock.
 | W10 | Integration into the cart |
 | W11-W13 | Validation runs and the event-log evidence |
 
-No firmware is committed before Week 8: the parts are ordered in Week 6 and bench-tested in Week 7.
+No firmware is committed before Week 8: the parts are ordered in Week 6 and bench-tested in Week 7. At the Week 5 submission this repository therefore holds the structure, this README and the `.gitignore` only, and that is the intended state, not an omission.
 
 ## Version rule
 
