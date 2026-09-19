@@ -4,7 +4,7 @@ Repository: <https://github.com/Smart-Clinic-Tech/smart-crash-cart>
 
 Firmware and design files for the graduation project **Design of a Smart Medical Crash Cart with Access Control and Tamper
 Detection** — Majmaah University, College of Applied Medical Sciences, Department of Medical Equipment
-Technology. Course: Design Project (0475 BMET), First Semester 1448 H (481), 2026-2027.
+Technology. Course: Design Project (0481 BMET), First Semester 1448 H (481), 2026-2027.
 Supervisor: Dr. Ahmad Alassaf.
 
 ## Team
