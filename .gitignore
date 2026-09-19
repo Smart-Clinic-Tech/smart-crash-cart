@@ -1,0 +1,21 @@
+# PIN values live here and must never be uploaded
+secrets.h
+firmware/secrets.h
+
+# Arduino build output
+build/
+*.hex
+*.elf
+*.o
+*.d
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Raw SD card dumps that are too large for the repository
+logs/raw/
